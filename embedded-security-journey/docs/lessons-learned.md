@@ -12,12 +12,12 @@ Things that cost me time, in case they save someone else's.
 ## Wiring
 - UART: RX goes to TX and TX goes to RX, ground is shared, and VCC stays disconnected when the target has its own power.
 - The FTDI's 3.3 V / 5 V jumper must be on **3.3 V** for an ESP32.
-- The 38-pin ESP32 is wider than a standard 830-point breadboard half and covers all the holes next to its pins. Use jumper wires, or keep it off the breadboard.
+- The 38-pin ESP32 is wide and can leave no free holes next to its pins on a breadboard. I kept it off the breadboard and used jumper wires.
 - Read the pin names printed on a module (front and back differ). Do a continuity check between power pins before connecting power.
 
 ## Multimeter
 - Continuity (beep) mode between `3V3`/`VIN` and `GND` on the bare board: no beep means no short.
-- A damaged DHT22 module read about 9.8 Ω between `+` and `-` (Ω 200 range). A healthy one should read open-circuit or very high.
+- The damaged DHT22 module beeped in continuity mode and read about 9.8 Ω in the Ω 200 range. A healthy one should read open-circuit or very high.
 
 ## PulseView
 - For microsecond signals, zoom until the ruler ticks are about 100 µs apart.

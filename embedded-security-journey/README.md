@@ -21,7 +21,7 @@ Troubleshooting notes from the setup are in [`docs/lessons-learned.md`](docs/les
 
 ## Hardware
 
-- ESP32 DevKit, 38-pin (ESP32-WROOM-32, on-board CP2102 USB bridge)
+- ESP32 DevKit, 38-pin (on-board CP2102 USB bridge)
 - FTDI FT232RL USB-UART adapter (3.3 V / 5 V jumper)
 - 8-channel 24 MHz USB logic analyzer (Saleae-compatible clone, `fx2lafw`)
 - DHT22 (AM2302) module, UNI-T UT33D+ multimeter

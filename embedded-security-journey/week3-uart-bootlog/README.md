@@ -19,9 +19,9 @@ The ESP32 board's own CP2102 is wired internally to the chip, so it can't be use
 PuTTY: Serial, the FTDI's COM port (COM5), 115200 baud, *Session → Logging → All session output*.
 
 [`bootlog.txt`](bootlog.txt) is the saved log. It contains:
-- 166 lines of `Failed to read from DHT sensor!` (the sketch from week 2 was still running with the sensor disconnected)
-- 239 lines of temperature/humidity readings after I reconnected it
-- one truncated line where I pressed the EN (reset) button mid-print
+- about 165 lines of `Failed to read from DHT sensor!` (the sketch from week 2 was still running while the sensor was disconnected)
+- about 239 lines of temperature/humidity readings after I reconnected it
+- one truncated `Failed...` line, where I pressed the EN (reset) button mid-print
 
 ## What I learned
 <!-- TODO (in my own words): TX vs RX, why VCC stays disconnected, what a wrong baud rate looks like -->
