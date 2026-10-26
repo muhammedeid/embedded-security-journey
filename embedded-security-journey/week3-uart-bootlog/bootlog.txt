@@ -1,0 +1,450 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2026.10.22 01:30:31 =~=~=~=~=~=~=~=~=~=~=~=
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sr!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4876
+ho 0 tail 12 room 4
+load:0x40078000,len:16532
+load:0x40080400,len:3500
+entry 0x400805b4
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4876
+ho 0 tail 12 room 4
+load:0x40078000,len:16532
+load:0x40080400,len:3500
+entry 0x400805b4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4876
+ho 0 tail 12 room 4
+load:0x40078000,len:16532
+load:0x40080400,len:3500
+entry 0x400805b4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4876
+ho 0 tail 12 room 4
+load:0x40078000,len:16532
+load:0x40080400,len:3500
+entry 0x400805b4
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Failed to read from DHT sensor!
+Temp: 28.70 C  |  Humidity: 62.80 %
+Temp: 28.70 C  |  Humidity: 62.80 %
+Temp: 28.70 C  |  Humidity: 62.60 %
+Temp: 28.70 C  |  Humidity: 62.80 %
+Temp: 28.70 C  |  Humidity: 62.50 %
+Temp: 28.80 C  |  Humidity: 62.20 %
+Temp: 28.80 C  |  Humidity: 61.90 %
+Temp: 28.80 C  |  Humidity: 61.60 %
+Temp: 28.80 C  |  Humidity: 61.50 %
+Temp: 28.80 C  |  Humidity: 61.20 %
+Temp: 28.80 C  |  Humidity: 61.00 %
+Temp: 28.80 C  |  Humidity: 60.80 %
+Temp: 28.70 C  |  Humidity: 60.60 %
+Temp: 28.80 C  |  Humidity: 60.50 %
+Temp: 28.80 C  |  Humidity: 60.30 %
+Temp: 28.70 C  |  Humidity: 60.30 %
+Temp: 28.70 C  |  Humidity: 60.10 %
+Temp: 28.70 C  |  Humidity: 60.10 %
+Temp: 28.60 C  |  Humidity: 60.00 %
+Temp: 28.60 C  |  Humidity: 59.90 %
+Temp: 28.60 C  |  Humidity: 59.90 %
+Temp: 28.60 C  |  Humidity: 59.90 %
+Temp: 28.60 C  |  Humidity: 60.00 %
+Temp: 28.50 C  |  Humidity: 59.90 %
+Temp: 28.50 C  |  Humidity: 60.00 %
+Temp: 28.50 C  |  Humidity: 60.10 %
+Temp: 28.50 C  |  Humidity: 60.20 %
+Temp: 28.40 C  |  Humidity: 60.10 %
+Temp: 28.40 C  |  Humidity: 60.10 %
+Temp: 28.40 C  |  Humidity: 60.20 %
+Temp: 28.40 C  |  Humidity: 60.20 %
+Temp: 28.40 C  |  Humidity: 60.30 %
+Temp: 28.30 C  |  Humidity: 60.30 %
+Temp: 28.30 C  |  Humidity: 60.30 %
+Temp: 28.30 C  |  Humidity: 60.30 %
+Temp: 28.30 C  |  Humidity: 62.60 %
+Temp: 28.30 C  |  Humidity: 66.20 %
+Temp: 28.40 C  |  Humidity: 70.60 %
+Temp: 28.40 C  |  Humidity: 71.40 %
+Temp: 28.30 C  |  Humidity: 71.80 %
+Temp: 28.30 C  |  Humidity: 70.70 %
+Temp: 28.30 C  |  Humidity: 69.40 %
+Temp: 28.30 C  |  Humidity: 68.50 %
+Temp: 28.30 C  |  Humidity: 67.70 %
+Temp: 28.30 C  |  Humidity: 67.00 %
+Temp: 28.30 C  |  Humidity: 66.30 %
+Temp: 28.20 C  |  Humidity: 65.80 %
+Temp: 28.20 C  |  Humidity: 65.40 %
+Temp: 28.20 C  |  Humidity: 65.00 %
+Temp: 28.20 C  |  Humidity: 64.70 %
+Temp: 28.20 C  |  Humidity: 64.40 %
+Temp: 28.20 C  |  Humidity: 64.10 %
+Temp: 28.20 C  |  Humidity: 63.80 %
+Temp: 28.20 C  |  Humidity: 63.60 %
+Temp: 28.20 C  |  Humidity: 63.40 %
+Temp: 28.20 C  |  Humidity: 63.30 %
+Temp: 28.20 C  |  Humidity: 63.10 %
+Temp: 28.20 C  |  Humidity: 62.90 %
+Temp: 28.20 C  |  Humidity: 62.70 %
+Temp: 28.20 C  |  Humidity: 62.60 %
+Temp: 28.20 C  |  Humidity: 62.50 %
+Temp: 28.20 C  |  Humidity: 62.50 %
+Temp: 28.20 C  |  Humidity: 62.40 %
+Temp: 28.20 C  |  Humidity: 62.40 %
+Temp: 28.20 C  |  Humidity: 62.30 %
+Temp: 28.20 C  |  Humidity: 62.30 %
+Temp: 28.20 C  |  Humidity: 62.20 %
+Temp: 28.20 C  |  Humidity: 62.00 %
+Temp: 28.20 C  |  Humidity: 61.80 %
+Temp: 28.20 C  |  Humidity: 61.70 %
+Temp: 28.20 C  |  Humidity: 61.70 %
+Temp: 28.20 C  |  Humidity: 61.50 %
+Temp: 28.20 C  |  Humidity: 61.40 %
+Temp: 28.20 C  |  Humidity: 61.30 %
+Temp: 28.20 C  |  Humidity: 61.20 %
+Temp: 28.20 C  |  Humidity: 61.20 %
+Temp: 28.20 C  |  Humidity: 61.00 %
+Temp: 28.10 C  |  Humidity: 61.10 %
+Temp: 28.10 C  |  Humidity: 61.00 %
+Temp: 28.10 C  |  Humidity: 61.10 %
+Temp: 28.10 C  |  Humidity: 61.20 %
+Temp: 28.10 C  |  Humidity: 61.20 %
+Temp: 28.10 C  |  Humidity: 61.10 %
+Temp: 28.10 C  |  Humidity: 61.10 %
+Temp: 28.00 C  |  Humidity: 61.10 %
+Temp: 28.00 C  |  Humidity: 61.10 %
+Temp: 28.00 C  |  Humidity: 61.20 %
+Temp: 28.00 C  |  Humidity: 61.20 %
+Temp: 28.00 C  |  Humidity: 61.10 %
+Temp: 28.00 C  |  Humidity: 61.10 %
+Temp: 27.90 C  |  Humidity: 61.20 %
+Temp: 27.90 C  |  Humidity: 61.10 %
+Temp: 27.90 C  |  Humidity: 61.20 %
+Temp: 27.90 C  |  Humidity: 61.20 %
+Temp: 27.90 C  |  Humidity: 61.20 %
+Temp: 27.90 C  |  Humidity: 61.20 %
+Temp: 27.90 C  |  Humidity: 61.20 %
+Temp: 27.90 C  |  Humidity: 61.30 %
+Temp: 27.80 C  |  Humidity: 61.10 %
+Temp: 27.80 C  |  Humidity: 61.30 %
+Temp: 27.80 C  |  Humidity: 61.30 %
+Temp: 27.80 C  |  Humidity: 61.40 %
+Temp: 27.80 C  |  Humidity: 61.40 %
+Temp: 27.70 C  |  Humidity: 61.40 %
+Temp: 27.70 C  |  Humidity: 61.40 %
+Temp: 27.70 C  |  Humidity: 61.40 %
+Temp: 27.70 C  |  Humidity: 61.60 %
+Temp: 27.70 C  |  Humidity: 61.50 %
+Temp: 27.70 C  |  Humidity: 61.60 %
+Temp: 27.70 C  |  Humidity: 61.70 %
+Temp: 27.60 C  |  Humidity: 61.70 %
+Temp: 27.70 C  |  Humidity: 61.70 %
+Temp: 27.60 C  |  Humidity: 61.70 %
+Temp: 27.60 C  |  Humidity: 61.80 %
+Temp: 27.60 C  |  Humidity: 61.70 %
+Temp: 27.60 C  |  Humidity: 61.80 %
+Temp: 27.60 C  |  Humidity: 61.70 %
+Temp: 27.60 C  |  Humidity: 61.70 %
+Temp: 27.60 C  |  Humidity: 61.70 %
+Temp: 27.50 C  |  Humidity: 61.70 %
+Temp: 27.50 C  |  Humidity: 61.80 %
+Temp: 27.50 C  |  Humidity: 61.90 %
+Temp: 27.50 C  |  Humidity: 61.80 %
+Temp: 27.50 C  |  Humidity: 61.90 %
+Temp: 27.50 C  |  Humidity: 62.00 %
+Temp: 27.50 C  |  Humidity: 62.00 %
+Temp: 27.50 C  |  Humidity: 62.20 %
+Temp: 27.50 C  |  Humidity: 62.20 %
+Temp: 27.50 C  |  Humidity: 62.30 %
+Temp: 27.50 C  |  Humidity: 62.40 %
+Temp: 27.50 C  |  Humidity: 62.40 %
+Temp: 27.50 C  |  Humidity: 62.40 %
+Temp: 27.50 C  |  Humidity: 62.50 %
+Temp: 27.50 C  |  Humidity: 62.60 %
+Temp: 27.50 C  |  Humidity: 62.70 %
+Temp: 27.50 C  |  Humidity: 62.70 %
+Temp: 27.50 C  |  Humidity: 62.70 %
+Temp: 27.50 C  |  Humidity: 62.70 %
+Temp: 27.50 C  |  Humidity: 62.60 %
+Temp: 27.50 C  |  Humidity: 62.70 %
+Temp: 27.50 C  |  Humidity: 62.70 %
+Temp: 27.60 C  |  Humidity: 62.60 %
+Temp: 27.60 C  |  Humidity: 62.70 %
+Temp: 27.60 C  |  Humidity: 62.70 %
+Temp: 27.60 C  |  Humidity: 62.70 %
+Temp: 27.60 C  |  Humidity: 62.90 %
+Temp: 27.60 C  |  Humidity: 63.10 %
+Temp: 27.60 C  |  Humidity: 63.10 %
+Temp: 27.60 C  |  Humidity: 63.20 %
+Temp: 27.60 C  |  Humidity: 63.10 %
+Temp: 27.60 C  |  Humidity: 63.20 %
+Temp: 27.60 C  |  Humidity: 63.00 %
+Temp: 27.60 C  |  Humidity: 63.00 %
+Temp: 27.60 C  |  Humidity: 63.00 %
+Temp: 27.60 C  |  Humidity: 63.00 %
+Temp: 27.60 C  |  Humidity: 63.00 %
+Temp: 27.60 C  |  Humidity: 62.90 %
+Temp: 27.60 C  |  Humidity: 63.00 %
+Temp: 27.60 C  |  Humidity: 63.00 %
+Temp: 27.60 C  |  Humidity: 62.90 %
+Temp: 27.60 C  |  Humidity: 62.90 %
+Temp: 27.60 C  |  Humidity: 62.90 %
+Temp: 27.60 C  |  Humidity: 62.70 %
+Temp: 27.70 C  |  Humidity: 62.80 %
+Temp: 27.60 C  |  Humidity: 62.80 %
+Temp: 27.60 C  |  Humidity: 62.70 %
+Temp: 27.60 C  |  Humidity: 62.60 %
+Temp: 27.60 C  |  Humidity: 62.60 %
+Temp: 27.70 C  |  Humidity: 62.70 %
+Temp: 27.60 C  |  Humidity: 62.60 %
+Temp: 27.70 C  |  Humidity: 62.50 %
+Temp: 27.60 C  |  Humidity: 62.50 %
+Temp: 27.60 C  |  Humidity: 62.50 %
+Temp: 27.60 C  |  Humidity: 62.40 %
+Temp: 27.60 C  |  Humidity: 62.20 %
+Temp: 27.60 C  |  Humidity: 62.30 %
+Temp: 27.60 C  |  Humidity: 62.30 %
+Temp: 27.60 C  |  Humidity: 62.20 %
+Temp: 27.60 C  |  Humidity: 62.30 %
+Temp: 27.60 C  |  Humidity: 62.20 %
+Temp: 27.60 C  |  Humidity: 62.30 %
+Temp: 27.60 C  |  Humidity: 62.40 %
+Temp: 27.60 C  |  Humidity: 62.40 %
+Temp: 27.60 C  |  Humidity: 62.30 %
+Temp: 27.60 C  |  Humidity: 62.40 %
+Temp: 27.60 C  |  Humidity: 62.30 %
+Temp: 27.50 C  |  Humidity: 62.40 %
+Temp: 27.50 C  |  Humidity: 62.40 %
+Temp: 27.50 C  |  Humidity: 62.30 %
+Temp: 27.50 C  |  Humidity: 62.30 %
+Temp: 27.50 C  |  Humidity: 62.30 %
+Temp: 27.50 C  |  Humidity: 62.30 %
+Temp: 27.50 C  |  Humidity: 62.30 %
+Temp: 27.50 C  |  Humidity: 62.20 %
+Temp: 27.50 C  |  Humidity: 62.10 %
+Temp: 27.40 C  |  Humidity: 62.20 %
+Temp: 27.40 C  |  Humidity: 62.20 %
+Temp: 27.40 C  |  Humidity: 62.30 %
+Temp: 27.40 C  |  Humidity: 62.30 %
+Temp: 27.40 C  |  Humidity: 62.30 %
+Temp: 27.40 C  |  Humidity: 62.40 %
+Temp: 27.40 C  |  Humidity: 62.40 %
+Temp: 27.40 C  |  Humidity: 62.50 %
+Temp: 27.40 C  |  Humidity: 62.50 %
+Temp: 27.40 C  |  Humidity: 62.60 %
+Temp: 27.40 C  |  Humidity: 62.60 %
+Temp: 27.30 C  |  Humidity: 62.60 %
+Temp: 27.30 C  |  Humidity: 62.60 %
+Temp: 27.30 C  |  Humidity: 62.60 %
+Temp: 27.30 C  |  Humidity: 62.50 %
+Temp: 27.30 C  |  Humidity: 62.60 %
+Temp: 27.30 C  |  Humidity: 62.60 %
+Temp: 27.30 C  |  Humidity: 62.60 %
+Temp: 27.30 C  |  Humidity: 62.70 %
+Temp: 27.30 C  |  Humidity: 62.70 %
+Temp: 27.30 C  |  Humidity: 62.70 %
+Temp: 27.30 C  |  Humidity: 62.70 %
+Temp: 27.30 C  |  Humidity: 62.60 %
+Temp: 27.30 C  |  Humidity: 62.80 %
+Temp: 27.20 C  |  Humidity: 62.80 %
+Temp: 27.20 C  |  Humidity: 62.90 %
+Temp: 27.20 C  |  Humidity: 62.90 %
+Temp: 27.20 C  |  Humidity: 62.90 %
+Temp: 27.20 C  |  Humidity: 63.00 %
+Temp: 27.20 C  |  Humidity: 63.00 %
+Temp: 27.20 C  |  Humidity: 63.00 %
+Temp: 27.20 C  |  Humidity: 62.90 %
+Temp: 27.20 C  |  Humidity: 62.90 %
+Temp: 27.20 C  |  Humidity: 63.00 %
+Temp: 27.20 C  |  Humidity: 63.00 %
+Temp: 27.20 C  |  Humidity: 63.10 %
+Temp: 27.20 C  |  Humidity: 63.30 %
+Temp: 27.20 C  |  Humidity: 63.40 %
+Temp: 27.20 C  |  Humidity: 63.40 %
+Temp: 27.20 C  |  Humidity: 63.50 %
+Temp: 27.20 C  |  Humidity: 63.50 %
+Temp: 27.20 C  |  Humidity: 63.50 %
+Temp: 27.20 C  |  Humidity: 63.50 %
+Temp: 27.20 C  |  Humidity: 63.40 %
